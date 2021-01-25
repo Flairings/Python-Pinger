@@ -1,0 +1,5 @@
+{
+  "color": "RED",
+  "online": "{host.address} is online",
+  "offline": "{host.address} is offline"
+}

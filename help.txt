@@ -1,0 +1,9 @@
+
+possible place holders:
+
+
+{host.min_rtt}
+{host.avg_rtt}
+{host.max_rtt}
+{host.address}
+
