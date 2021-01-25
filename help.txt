@@ -7,3 +7,17 @@ possible place holders:
 {host.max_rtt}
 {host.address}
 
+colors:
+RED
+LIGHT_RED
+BLUE
+LIGHT_BLUE
+MAGENTA
+LIGHT_MAGENTA
+YELLOW
+LIGHT_YELLOW
+GREEN
+LIGHT_GREEN
+CYAN
+LIGHT_CYAN
+BLACK
